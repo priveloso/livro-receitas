@@ -3,5 +3,10 @@
 Olá! Bem Vindos ao meu livro de receitas:wave:
 
 - Strogonoff de Frango
-- Pave
+
+- Pavê
+
+- Bolo de Chocolate
+
+  
 
